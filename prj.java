@@ -1,5 +1,0 @@
-public class prj {
-  public static void main(String arg[]) {
-    System.out.print("Hello world");
-  }
-}
